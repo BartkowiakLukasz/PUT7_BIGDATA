@@ -1,0 +1,23 @@
+# Narzedzia lokalne i edytory
+.vscode/
+.idea/
+AGENTS.md
+*.log
+
+# Srodowisko Docker i dane klastra
+BigData25/
+
+# Inne projekty laboratoryjne
+sparkPythonProject/
+
+# Srodowiska wirtualne Pythona i cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Pliki wyjsciowe i tymczasowe
+*.json
+output_*
